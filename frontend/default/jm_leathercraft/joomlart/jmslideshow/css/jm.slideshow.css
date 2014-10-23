@@ -252,6 +252,8 @@
 	margin: 0;
 }
 
+/*****
+
 .jm-mask-desc .jm-slide-desc .arrow-top { 
 	background:url(../images/arrow-top.png) no-repeat;
 	width:251px;
@@ -265,6 +267,8 @@
 	height:51px;
 	float:left;
 }
+
+*****/
 
 .jm-mask-desc .jm-slide-desc .desc-first-type { float:left; width:100%;}
 
